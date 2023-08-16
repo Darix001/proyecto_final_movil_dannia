@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.proyecto.app-mergeReleaseResources-20:/values-land/values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\elmen\\.gradle\\caches\\transforms-3\\c209440154b3a4985c800ec78ffda6fd\\transformed\\appcompat-1.1.0-alpha01\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,125,196",
+                        "endColumns": "69,70,67",
+                        "endOffsets": "120,191,259"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\elmen\\.gradle\\caches\\transforms-3\\ae045e6d978bb0f3e0e45c0d7ca6dc7e\\transformed\\material-1.1.0-alpha05\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.example.proyecto.app-mergeReleaseResources-20:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\elmen\\.gradle\\caches\\transforms-3\\ae045e6d978bb0f3e0e45c0d7ca6dc7e\\transformed\\material-1.1.0-alpha05\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,143,245,347,461,581,701",
+                        "endColumns": "87,101,101,113,119,119,111",
+                        "endOffsets": "138,240,342,456,576,696,808"
+                    },
+                    "to": {
+                        "startLines": "16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "1037,1125,1227,1329,1443,1563,1683",
+                        "endColumns": "87,101,101,113,119,119,111",
+                        "endOffsets": "1120,1222,1324,1438,1558,1678,1790"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\elmen\\OneDrive\\Documentos\\7m0 cuatrimestre\\Movil\\Final\\proyecto\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,14",
+                        "startColumns": "4,4",
+                        "startOffsets": "175,831",
+                        "endLines": "7,16",
+                        "endColumns": "12,12",
+                        "endOffsets": "482,997"
+                    },
+                    "to": {
+                        "startLines": "2,6",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,236",
+                        "endLines": "5,8",
+                        "endColumns": "12,12",
+                        "endOffsets": "231,400"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\elmen\\.gradle\\caches\\transforms-3\\c209440154b3a4985c800ec78ffda6fd\\transformed\\appcompat-1.1.0-alpha01\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "405,475,559,643,739,841,943",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "470,554,638,734,836,938,1032"
+                    }
+                }
+            ]
+        }
+    ]
+}
